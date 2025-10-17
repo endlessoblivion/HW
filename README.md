@@ -11,13 +11,13 @@ Note: The spreadsheet was created in Libre Office, in other apps the layout may 
 
 ## Strategy
 
-During the tournament days (usually 5), only upgrade your titans by 4000 points to get the daily rewards. Do NOT collect rewards from the event's quests, leave that to the last moments before the event ends.
+During the tournament days (usually 5), only upgrade your titans by `3000` points to get the daily rewards. Do NOT collect rewards from the event's quests, leave that to the last moments before the event ends.
 
 On the last day, 2-3 hours before the event ends, collect all the rewards from event's quests and invest all the resources needed to get to the 1st place, by a safe margin ahead of the 2nd place. The top 3 places are usually around 150 k - 200 k points, a safe margin would be +20 k points.
 
-Usually, there's a concurrent 3-day event **Power of the Titans**, which will force you to upgrade titan skins (up to 40 &times;) and titan levels (up to 80 &times;) to enjoy the synergy of both events, but at the same time revealing "your cards" to the tournament opponents, because the Power of the Titans usually (but not always) ends 1 day sooner than the Tournament. On the other hand, the shop of Power of the Titans (available for 1 day after the event) may help you get additional resources on the last day of the Tournament.
+Usually, there's a concurrent 3-day event **`Power of the Titans`**, which will force you to upgrade titan skins (up to 40 &times;) and titan levels (up to 80 &times;) to enjoy the synergy of both events, but at the same time revealing "your cards" to the tournament opponents, because the **`Power of the Titans`** usually (but not always) ends 1 day sooner than the Tournament. On the other hand, the shop of **`Power of the Titans`** (available for 1 day after the event) may help you get additional resources on the last day of the Tournament.
 
-During the last 3 days of the Tournament, there's usually a concurrent event **Foundations of Power**. Make sure to wait with spending of all relevant resources for this event, to enjoy the triple synergy:
+During the last 3 days of the Tournament, there's usually a concurrent event **`Foundations of Power`**. Make sure to wait with spending of all relevant resources for this event, to enjoy the triple synergy:
 - 50 summoning spheres
 - all energy spending (bottles, mail gifts, etc.)
 - all emeralds spending
@@ -28,7 +28,7 @@ During the last 3 days of the Tournament, there's usually a concurrent event **F
 Your mileage may vary depending on the development state of your titans:
 - on **lower levels**, upgrading titans is cheap enough, so you can aim for completing all upgrade quests:
   - 200 &times; artifacts, 80 &times; skins, 100 &times; levels
-  - the shop of Power of the Titans can even have a positive feed-back loop, where you get more resources than you invested to get event points, so you can repeat it several times with a net gain
+  - the shop of **`Power of the Titans`** can even have a positive feed-back loop, where you get more resources than you invested to get event points, so you can repeat it several times with a net gain
 - on **higher levels**, upgrading titans gets prohibitively expensive, so you can only aim to maximise power gain, while having to ignore the "numeric" upgrade quests
   - it becomes impossible to stock up enough resources (~ 1 M each) in the time between the Tournaments (~ 1 month)
   - some "numeric" quests will give you additional resources, but in insufficient amounts, so the math usually speaks in favour of ignoring those
@@ -50,7 +50,7 @@ What can help to stock up resources:
 ### Math
 
 The sources of resources vary in what is the "best buy" in each of them:
-- the shop of Power of the Titans: ... *TBD* ... 
+- the shop of **`Power of the Titans`**: ... *TBD* ... 
 - Titan resource chests: 2500 potions &times; 2000 skin stones &times; 5000 essence &times; 100 seal fragments &times; 1250 elemental tournament coins
 - the Seer's chest: 30000 potions &times; 25000 skin stones &times; 16000 elemental tournament coins
 
@@ -117,7 +117,7 @@ E.g. at level 80 of all artifacts, with all at 4 stars, the efficiency ratios of
 You can use gems also for 1st and 2nd artifacts, if you run out of essence and if the ratio is better than the gem ratio for skins or levels, but it never happened to me &mdash; I only ever used gems for 3rd artifacts (seals).
 
 Since the upgrading of artifacts is quite time consuming:
-- use it for reaching the daily 4000 power points
+- use it for reaching the daily `3000` power points
 - use it to complete the event quest of "200 &times; artifact upgrade"
 - upgrade 3rd artifacts (seals) first (the slowest), but only if you choose to invest gems / gold at all
 - prepare upgrade of artifact stars for as many artifacts as you can, but don't actually do it until the "final push" window of 2-3 hours before the end of the Tournament
